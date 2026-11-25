@@ -90,7 +90,7 @@ Deep-dives: **at-risk subscriber profile**, **content investment efficiency** (w
 
 ## 🗄️ SQL
 
-Database schema and SQL queries: [`schema_and_sql.sql`](schema_and_sql.sql)
+Database schema and SQL queries: [`schema_and_sql.sql`](schema_and_sql%20%282%29.sql)
 
 ## 📊 Phase 4 – Power BI Dashboard
 
