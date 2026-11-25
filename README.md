@@ -109,6 +109,7 @@ Basic with Ads churns at 34.3% vs 18.1% for Premium. Premium is only 32.5% of ac
 
 ### Experience
 ![Experience](Dashboard%204.png)
+68.2% of reviews are positive vs 11.1% negative (about 6 to 1), and the average rating is 3.55 out of 5. Originals are rated slightly higher than licensed titles (3.61 vs 3.53; 69.8% vs 67.6% positive reviews). Sentiment is similar across genres: the negative share ranges only from 9.6% (Animation) to 11.8%. *Note: ratings and reviews are not linked to viewing sessions in this dataset (about 98.6% of ratings come from subscribers with no matching session).*
 
 ### Content Investment
 ![Content Investment](Dashboard5.png)
