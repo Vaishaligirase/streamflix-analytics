@@ -111,7 +111,7 @@ Basic with Ads churns at 34.3% vs 18.1% for Premium. Premium is only 32.5% of ac
 ![Experience](Dashboard%204.png)
 
 ### Content Investment
-![Content Investment](dashboard-5.png)
+![Content Investment](Dashboard5.png)
 
 Originals take 38.4% of the content budget but earn only 27.2% of viewing time.
 
