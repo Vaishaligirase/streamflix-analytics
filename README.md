@@ -108,7 +108,7 @@ A 5-page interactive dashboard: **Engagement Overview, Content Performance, Subs
 Basic with Ads churns at 34.3% vs 18.1% for Premium. Premium is only 32.5% of active subscribers but brings 47.6% of MRR.
 
 ### Experience
-![Experience](dashboard-4.png)
+![Experience](Dashboard%204.png)
 
 ### Content Investment
 ![Content Investment](dashboard-5.png)
